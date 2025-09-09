@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-qjlff=ps6wr+8q2m6%sf61y3x20^@zwq&@lhfgnwa7_loc#_f*
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["*"]
+ALLOWED_HOSTS = ["chat-application.railway.internal"]
 
 
 # Application definition
