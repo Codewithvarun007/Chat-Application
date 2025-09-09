@@ -31,6 +31,8 @@ CSRF_TRUSTED_ORIGINS = [
     "https://chat-application-production-9e75.up.railway.app",
 ]
 
+ALLOWED_HOSTS = ['chat-application-production-9e75.up.railway.app']
+
 
 
 # Application definition
