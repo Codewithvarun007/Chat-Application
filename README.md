@@ -14,5 +14,4 @@ A real-time chat application built with **Django**. Users can join chat rooms an
 
 ---
 
-## Project Structure
 
